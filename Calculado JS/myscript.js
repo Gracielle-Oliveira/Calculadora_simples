@@ -1,7 +1,7 @@
 function insert(num) {
 
-    var numero = document.getElementById('result').innerHTML;
-    document.getElementById('result').innerHTML = numero + num
+    var number = document.getElementById('result').innerHTML;
+    document.getElementById('result').innerHTML = number + num
 }
 
 function clean() {
